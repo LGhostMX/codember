@@ -4,7 +4,7 @@
 
 # [codember](https://codember.dev)
 
-Resolución de retos del juego [codember](https://codember.dev/) creado por [@midudev](https://github.com/midudev/) para la comunidad.
+Repositorio dedicado a la solución de retos de programación de [codember](https://codember.dev/) creado por [@midudev](https://github.com/midudev/) para la comunidad.
 
 </div>
 
